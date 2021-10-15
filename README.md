@@ -32,4 +32,4 @@ firstapi é uma API bem simples utilizando os padrões REST para fazer um CRUD d
 - O projeto será iniciado em http://localhost:3000
 
 
-Feito com 🤍 by MDDev 👋🏻 [acesse o perfil](https://www.linkedin.com/in/marcos-douglas-fernandes-atanazio-b74044170/)
+<p align="center">Feito com 🤍 by MDDev 👋🏻 [acesse o perfil](https://www.linkedin.com/in/marcos-douglas-fernandes-atanazio-b74044170/)</p>
