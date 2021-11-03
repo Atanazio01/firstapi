@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-firstapi é uma API bem simples utilizando os padrões REST para fazer um CRUD de usuários, ela foi desenvolvida utiliando apenas NODEJS, para fixar os conteitos por trás de uma API REST, a API foi desenvolvida durante o curso JSTACK do Matheus Silva.
+firstapi é uma API bem simples utilizando os padrões REST para fazer um CRUD de usuários, ela foi desenvolvida utilizando apenas NODEJS, para fixar os conteitos por trás de uma API REST, a API foi desenvolvida durante o curso JSTACK do Matheus Silva.
 
 ## ❓ Como executar
 
